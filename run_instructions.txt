@@ -1,0 +1,14 @@
+As it is a python based stand alone application it can be run manually if the python is installed in your computer
+Steps to follow:
+    1) Install python in your local computer
+    2) place the work file in the particular folder of your choice so that you can access through command prompt
+        Command: cd file name or Directory
+    3) After navigating to the source directory or file then run the file by giving the command
+        Command: python file_name
+    
+Running the application using IDE(Integrated Development Environment):
+     -> It can simply be get into running state by simply clicking on the run button and your application is came into the running state
+
+This application can also be run using the online compliers also 
+     Eg: codechef ide, programiz etc
+       
